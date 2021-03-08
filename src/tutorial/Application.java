@@ -71,15 +71,7 @@ public class Application {
         System.out.print("Married?: " + isMarried);
 
 
-
-
-
-
-
-
-
-
-
+        System.out.println();
 
     }
 }
